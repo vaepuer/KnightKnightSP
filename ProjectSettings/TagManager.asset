@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpellManager
+  - Spells
+  - ArcPrefab
+  - Tile
+  - Unit
+  - Stair
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Placement
+  - Water
+  - UI
+  - ClickableObjects
+  - Obstacle
+  - ArcPrefab
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ArcPrefab
+    uniqueID: 2820422089
+    locked: 0
+  - name: Floor
+    uniqueID: 3457147835
+    locked: 0
